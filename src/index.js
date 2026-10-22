@@ -1,3 +1,5 @@
 import "./styles.css";
 
-console.log("Template working");
+const testMessage = "Template working";
+
+export default testMessage;
